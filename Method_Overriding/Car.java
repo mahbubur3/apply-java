@@ -16,3 +16,17 @@ class Bus {
         obj.drive();
     }
 }
+
+
+/* 
+class Bike {
+    void drive() {
+        System.out.println("Bike..");
+    }
+
+    public static void main(String[] args) {
+        Bike obj = new Bike();
+        obj.drive();
+    }
+}
+*/
